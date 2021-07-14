@@ -1,0 +1,27 @@
+[
+    {
+        "img": "./images/featured1.jpg",
+        "title": "Animal Print Sweatshirt1",            
+        "origin price": "36$",
+        "old price": "42$"
+    },
+    {
+        "img": "./images/featured2.jpg",
+        "title": "Animal Print Sweatshirt2",            
+        "origin price": "37$",
+        "old price": "43$"
+    },
+    {
+        "img": "./images/featured3.jpg",
+        "title": "Animal Print Sweatshirt3",            
+        "origin price": "38$",
+        "old price": "44$"
+    },
+    {
+        "img": "./images/featured4.jpg",
+        "title": "Animal Print Sweatshirt4",            
+        "origin price": "39$",
+        "old price": "45$"
+    }
+]
+ 
